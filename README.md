@@ -2,6 +2,4 @@
 todoManagementAppのDockerとか
 
 ## はじめに
-```
-git clone git@github.com:isksss/todoManagementApp.git
-```
+`docker compose up -d`するまえに`git submodule update --remote`して。
