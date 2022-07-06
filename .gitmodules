@@ -1,0 +1,3 @@
+[submodule "todoManagementApp"]
+	path = todoManagementApp
+	url = git@github.com:isksss/todoManagementApp.git
